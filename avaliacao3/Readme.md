@@ -1,0 +1,5 @@
+
+# Atividade03
+
+Como auto avaliação da atividade anterior, cometi vários erros relacionados a estrutura da atividade,
+como o design da solução, pois eu apenas considerei que o quadrado mágico seria um quadrado o qual todas as linhas colunas diagonais e quadrados internos resultassem na soma 34, sendo assim eu não realizei um design que abordasse todas as soluções e nem cheguei a calcular as mesmas, tendo dado um exemplo pífio de 4  soluções, sendo que deveria ter feito um design mais robusto, deveria ter feito um design  abordando como chegar em todas as soluções, e os decorrentes problemas desse resultado como por exemplo as alternativas de otimização abordadas pelo professor decorrente do grande número de resultados possíveis, sendo assim eu deveria ter gerado todas as combinações possíveis de 4 números dos 16 números empregados, sem repetições, depois selecionar apenas aquelas cujas somas resultam em 34 gerar todas as combinações de 4 elementos do conjunto e gerar todas as permutações dos valores de cada uma das linhas.
